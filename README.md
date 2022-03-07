@@ -10,7 +10,9 @@ Obrigado <h5>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonatha1&layout=compact&langs_count=7&theme=highcontrast&locale"/>
   <img allign="right alt="Yanky gif" height="200" src="https://cdn.discordapp.com/attachments/840049777143971851/950527659966890004/338224_6OG0rNoS.png">
 </div>
-
+<div align="right">
+                  <img height="200" src="https://cdn.discordapp.com/attachments/840049777143971851/950527659966890004/338224_6OG0rNoS.png">
+  </div>
   <div>
     <a href="https://www.instagram.com/yanky_fonteboa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     </div>
