@@ -1,8 +1,8 @@
-<h3>Meu nome é Yanky Jhonatha, sou estudante de Engenharia de Computação no Instituto Federal de Minas Gerais(IFMG).
-  
+
+*Meu nome é Yanky Jhonatha, sou estudante de Engenharia de Computação no Instituto Federal de Minas Gerais(IFMG).
 No meu perfil você poderá ver alguns códigos que implementei durante meus estudos, e espero que ajude em algo.                   
 Obrigado <h3>
- 
+
 
 <div align="center">
   <a href="https://github.com/Jhonatha1">
