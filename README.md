@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yanky Jhonatha</h1>
+<h1 align="center">Hey 👋, I'm Yanky Jhonatha</h1>
 <h3 align="center">I am a Computer Engineering student at the Federal Institute of Minas Gerais (IFMG).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhonatha1&label=Profile%20views&color=0e75b6&style=flat" alt="jhonatha1" /> </p>
