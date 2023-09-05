@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhonatha1&label=Profile%20views&color=0e75b6&style=flat" alt="jhonatha1" /> </p>
 
-- 🌱 I’m currently learning **Python, C++ and JavaScript.**
+- 🌱 I’m currently learning **TypeScript and React.**
 
 - 👨‍💻 My profile on Beecrowed: [https://www.beecrowd.com.br/judge/pt/profile/641754](https://www.beecrowd.com.br/judge/pt/profile/641754)
 
