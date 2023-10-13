@@ -36,5 +36,5 @@
                   <img height="200" src="https://cdn.discordapp.com/attachments/840049777143971851/950527659966890004/338224_6OG0rNoS.png">
   </div>
 
-  [![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github)](https://github.com/Jhonatha1)
+
 
