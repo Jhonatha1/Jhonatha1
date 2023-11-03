@@ -62,10 +62,5 @@
   </div>
 
 
-<details>
-<summary>Clique para ver mais</summary>
 
-teste
-
-</details>
 
