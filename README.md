@@ -54,9 +54,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jhonatha1&show_icons=true&theme=highcontrast&localebr&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonatha1&layout=compact&langs_count=7&theme=highcontrast&locale"/>
 </div>
-<div align="center">
-                  <img height="200" src="https://cdn.discordapp.com/attachments/840049777143971851/950527659966890004/338224_6OG0rNoS.png">
-  </div>
+
 
 
 
